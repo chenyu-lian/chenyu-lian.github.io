@@ -8,7 +8,7 @@ authors:
   - Lingke Kong
   - admin
   - Detian Huang
-  - zhenjiang li
+  - Zhenjiang Li
   - Yanle Hu
   - Qichao Zhou
 
